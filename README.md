@@ -1,0 +1,2 @@
+# megalixcorp
+Kubernetes application deployement
